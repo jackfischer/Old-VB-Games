@@ -1,18 +1,18 @@
 ###Really old Visual Basic games
-I recently came across this ancient project and it ![still worked](Final.exe). Unfortunately the source is long lost. This was the final project for a high school VB class in that I took in 2009-10.
+I recently came across this ancient project and it [still worked](Final.exe). Unfortunately the source is long lost. This was the final project for a high school VB class in that I took in 2009-10.
 
 The design is obviously top notch, especially the tic tac toe board. Hopefully this will come back into style.
 
-![opening](main.PNG)
+![opening](resources/main.PNG)
 
-![Rock paper sissors](rock-paper-sissors.PNG)
+![Rock paper sissors](resources/rock-paper-sissors.PNG)
 
-![yahtzee](yahtzee.PNG)
+![yahtzee](resources/yahtzee.PNG)
 
-![tic tac toe](tic-tac-toe.PNG)
+![tic tac toe](resources/tic-tac-toe.PNG)
 
-![concentration](concentration.PNG)
+![concentration](resources/concentration.PNG)
 
-![game](board-game.PNG)
+![game](resources/board-game.PNG)
 
-![Black-jack](black-jack.PNG)
+![Black-jack](resources/black-jack.PNG)
